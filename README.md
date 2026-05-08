@@ -4,6 +4,8 @@
 
 ## 網頁
 
+可立即開啟的預覽網址：<https://htmlpreview.github.io/?https://github.com/joyce401502-ai/genetics-page/blob/main/index.html>
+
 GitHub Pages 網址：<https://joyce401502-ai.github.io/genetics-page/>
 
 ## 使用方式
